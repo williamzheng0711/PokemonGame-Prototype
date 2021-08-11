@@ -336,8 +336,6 @@ namespace IERG3080_POKEMON
         {
             if (PokeShowBox.SelectedItem != null)
             {
-                //string SelectedPokemonInfo = PokeShowBox.SelectedItem.ToString();
-                //MessageBox.Show(PokeShowBox.SelectedItem.ToString());
                 PokemonPresenter.PokemonDisplay BeViewed = (PokemonPresenter.PokemonDisplay)PokeShowBox.SelectedItem;
                 PictureShow(BeViewed.Name);
                 NicknamePoke.Text = " " + BeViewed.DisplayName;
@@ -345,10 +343,6 @@ namespace IERG3080_POKEMON
                 LevelPoke.Text = " Level:" + BeViewed.level.ToString();
                 EXPinfo.Text = "EXP: " + BeViewed.exp.ToString() + "/" + BeViewed.maxExp.ToString(); 
                 Refresh_Battle_Status_and_EXP(BeViewed);
-            }
-            else
-            {
-                MessageBox.Show("Please select in the above list a Pokemon you wanna view.");
             }
         }
 
