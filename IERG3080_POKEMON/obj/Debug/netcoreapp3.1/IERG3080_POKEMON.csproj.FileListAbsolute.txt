@@ -108,3 +108,34 @@ C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\I
 C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.dll
 C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.pdb
 C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.genruntimeconfig.cache
+D:\PokemonGame-Github\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.exe
+D:\PokemonGame-Github\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.deps.json
+D:\PokemonGame-Github\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.runtimeconfig.json
+D:\PokemonGame-Github\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.runtimeconfig.dev.json
+D:\PokemonGame-Github\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.dll
+D:\PokemonGame-Github\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.pdb
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.csprojAssemblyReference.cache
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Capture.g.cs
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MazeCave.g.cs
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\NaviMap.g.cs
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Rename.g.cs
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Reward.g.cs
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\App.g.cs
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON_MarkupCompile.cache
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON_MarkupCompile.lref
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Capture.baml
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\GymBattle.baml
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MazeCave.baml
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\NaviMap.baml
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Rename.baml
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Reward.baml
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.g.resources
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.AssemblyInfoInputs.cache
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.AssemblyInfo.cs
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.csproj.CoreCompileInputs.cache
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.dll
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.pdb
+D:\PokemonGame-Github\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.genruntimeconfig.cache

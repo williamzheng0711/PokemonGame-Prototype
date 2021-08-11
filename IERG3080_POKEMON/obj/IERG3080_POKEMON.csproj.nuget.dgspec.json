@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pavel\\OneDrive - The Chinese University of Hong Kong\\source\\Project 2\\IERG3080_POKEMON\\IERG3080_POKEMON.csproj": {}
+    "D:\\PokemonGame-Github\\IERG3080_POKEMON\\IERG3080_POKEMON.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pavel\\OneDrive - The Chinese University of Hong Kong\\source\\Project 2\\IERG3080_POKEMON\\IERG3080_POKEMON.csproj": {
+    "D:\\PokemonGame-Github\\IERG3080_POKEMON\\IERG3080_POKEMON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pavel\\OneDrive - The Chinese University of Hong Kong\\source\\Project 2\\IERG3080_POKEMON\\IERG3080_POKEMON.csproj",
+        "projectUniqueName": "D:\\PokemonGame-Github\\IERG3080_POKEMON\\IERG3080_POKEMON.csproj",
         "projectName": "IERG3080_POKEMON",
-        "projectPath": "C:\\Users\\Pavel\\OneDrive - The Chinese University of Hong Kong\\source\\Project 2\\IERG3080_POKEMON\\IERG3080_POKEMON.csproj",
-        "packagesPath": "C:\\Users\\Pavel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pavel\\OneDrive - The Chinese University of Hong Kong\\source\\Project 2\\IERG3080_POKEMON\\obj\\",
+        "projectPath": "D:\\PokemonGame-Github\\IERG3080_POKEMON\\IERG3080_POKEMON.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\PokemonGame-Github\\IERG3080_POKEMON\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

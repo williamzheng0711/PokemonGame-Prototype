@@ -62,7 +62,7 @@
         <Button x:Name="LEFT" Content="A" HorizontalAlignment="Left" Margin="48,384,0,0" VerticalAlignment="Top" Height="34" Width="32" FontFamily="Adobe Gothic Std B" Click="LEFT_Click"/>
         <Button x:Name="RIGHT" Content="D" HorizontalAlignment="Left" Margin="114,384,0,0" VerticalAlignment="Top" Height="34" Width="32" FontFamily="Adobe Gothic Std B" Click="RIGHT_Click"/>
         <Button x:Name="DOWN" Content="S" HorizontalAlignment="Left" Margin="80,418,0,0" VerticalAlignment="Top" Height="32" Width="34" FontFamily="Adobe Gothic Std B" Click="DOWN_Click"/>
-        <ListBox Style="{DynamicResource ListBoxStyle1}" x:Name="PokeShowBox" Margin="613,27,19,299" ScrollViewer.VerticalScrollBarVisibility="Visible" SelectionMode="Single">
+        <ListBox Style="{DynamicResource ListBoxStyle1}" x:Name="PokeShowBox" Margin="613,27,19,299" ScrollViewer.VerticalScrollBarVisibility="Visible" SelectionMode="Single" SelectionChanged="PokeShowBox_ItemChanged">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <TextBlock>

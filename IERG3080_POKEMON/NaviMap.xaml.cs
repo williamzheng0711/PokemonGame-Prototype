@@ -30,8 +30,6 @@ namespace IERG3080_POKEMON
         public NaviMap()
         {
             InitializeComponent();
-            //DrawMap();
-            //DrawChara(2); // means to draw it downwards
             LinkListBox();
             DrawPokemonCanvas();
             //GivingInitialPokemon();
@@ -46,9 +44,6 @@ namespace IERG3080_POKEMON
             PlayerModel.PlayerEvents.BattleReadyChanged += PlayerEvents_BattleReadyChanged;
 
             MapModel.Map map= MapModel.Map.Main;
-
-            //MessageBox.Show("Here1!! ");
-            //DrawPkm();
         }
 
         private void MapEvents_GymStepped(object source, EventArgs args)
@@ -322,6 +317,7 @@ namespace IERG3080_POKEMON
 
         private void Refresh_Battle_Status_and_EXP(PokemonPresenter.PokemonDisplay BeViewed)
         {
+            //sees if the Pokemon selected is a Battle-ready one
             if (PlayerModel.Player.Main.BattleReadyPokemon.Contains(BeViewed))
                 Battle_status.Text = "Ready";
             else Battle_status.Text = "Not Ready";
@@ -391,7 +387,12 @@ namespace IERG3080_POKEMON
         }
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
+           
+        }
 
+        private void PokeShowBox_ItemChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ViewPoke_Click(sender, e);
         }
 
         private void SellPoke_Click(object sender, RoutedEventArgs e)
@@ -399,7 +400,10 @@ namespace IERG3080_POKEMON
             if (PokeShowBox.SelectedItem != null)
             {
                 PokemonPresenter.PokemonDisplay P = (PokemonPresenter.PokemonDisplay)PokeShowBox.SelectedItem;
-                if (PlayerModel.Player.Main.BattleReadyPokemon[0] != null && PlayerModel.Player.Main.BattleReadyPokemon[0].ID == P.ID) MessageBox.Show("The only-battle-ready-Pokemon should not be sold!");
+                if (PlayerModel.Player.Main.BattleReadyPokemon[0] != null && PlayerModel.Player.Main.BattleReadyPokemon[0].ID == P.ID)
+                { 
+                    MessageBox.Show("The only-battle-ready-Pokemon should not be sold!"); 
+                }
                 else
                 {
                     PlayerModel.PlayerEvents.BattleReadyChanged += PlayerEvents_BattleReadyChanged;
