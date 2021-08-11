@@ -29,7 +29,12 @@ namespace IERG3080_POKEMON
 
         private void Confirm_Click(object sender, RoutedEventArgs e)
         {
-            if (newname.Text != null) { named = true; returnname = newname.Text; PlayerModel.Player.Main.OnPokemonRenamed(Num, returnname); }
+            if (newname.Text != null) 
+            { 
+                named = true; 
+                returnname = newname.Text; 
+                PlayerModel.Player.Main.OnPokemonRenamed(Num, returnname); 
+            }
             this.Close();
         }
     }
