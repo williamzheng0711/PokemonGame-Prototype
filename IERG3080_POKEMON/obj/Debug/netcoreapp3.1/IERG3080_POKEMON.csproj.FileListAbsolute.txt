@@ -1,0 +1,110 @@
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.exe
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.deps.json
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.runtimeconfig.json
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.runtimeconfig.dev.json
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.dll
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.pdb
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.csprojAssemblyReference.cache
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON_MarkupCompile.cache
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON_MarkupCompile.lref
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.g.resources
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.AssemblyInfo.cs
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.dll
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.pdb
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.genruntimeconfig.cache
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\NaviMap.g.cs
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\NaviMap.baml
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+C:\Users\user\source\repos\IERG3080_POKEMON\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\GymBattle.baml
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.exe
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.deps.json
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.runtimeconfig.json
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.runtimeconfig.dev.json
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.dll
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.pdb
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.csprojAssemblyReference.cache
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\NaviMap.g.cs
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\App.g.cs
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON_MarkupCompile.cache
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON_MarkupCompile.lref
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\GymBattle.baml
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\NaviMap.baml
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.g.resources
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.AssemblyInfoInputs.cache
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.AssemblyInfo.cs
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.csproj.CoreCompileInputs.cache
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.dll
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.pdb
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.genruntimeconfig.cache
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Capture.g.cs
+D:\William_Collection\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Capture.baml
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.exe
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.deps.json
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.runtimeconfig.json
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.runtimeconfig.dev.json
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.dll
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.pdb
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.csprojAssemblyReference.cache
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Capture.g.cs
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\NaviMap.g.cs
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON_MarkupCompile.cache
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON_MarkupCompile.lref
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Capture.baml
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\GymBattle.baml
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\NaviMap.baml
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.g.resources
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.AssemblyInfo.cs
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.dll
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.pdb
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.genruntimeconfig.cache
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MazeCave.g.cs
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MazeCave.baml
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Reward.g.cs
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Reward.baml
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Rename.g.cs
+C:\Users\user\OneDrive - The Chinese University of Hong Kong\POKEMON3080v2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Rename.baml
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.exe
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.deps.json
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.runtimeconfig.json
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.runtimeconfig.dev.json
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.dll
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\bin\Debug\netcoreapp3.1\IERG3080_POKEMON.pdb
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.csprojAssemblyReference.cache
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Capture.g.cs
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\GymBattle.g.cs
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MazeCave.g.cs
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\NaviMap.g.cs
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Rename.g.cs
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Reward.g.cs
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON_MarkupCompile.cache
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON_MarkupCompile.lref
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Capture.baml
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\GymBattle.baml
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\MazeCave.baml
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\NaviMap.baml
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Rename.baml
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\Reward.baml
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.g.resources
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.AssemblyInfoInputs.cache
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.AssemblyInfo.cs
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.dll
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.pdb
+C:\Users\Pavel\OneDrive - The Chinese University of Hong Kong\source\Project 2\IERG3080_POKEMON\obj\Debug\netcoreapp3.1\IERG3080_POKEMON.genruntimeconfig.cache

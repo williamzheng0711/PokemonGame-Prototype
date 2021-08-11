@@ -1,0 +1,5 @@
+﻿Tackle; L; 14; electric, steel, grass, fire
+Leech; H; 12; normal, fairy
+Scratch; L; 10; normal
+Thunder_Wave; H; 3; water, electric
+Headbutt; H; 16; normal, fighting

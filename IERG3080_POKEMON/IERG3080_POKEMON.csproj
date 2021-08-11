@@ -1,0 +1,81 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="img\LogoPage_Background.png" />
+    <None Remove="img\Logo_3080.png" />
+    <None Remove="img\Pokemon_Starting_Logo.png" />
+    <None Remove="img\Title_StartBtn.png" />
+    <None Remove="img_gymbattle\battlebg.png" />
+    <None Remove="img_gymbattle\battle_background.jpg" />
+    <None Remove="img_navimap\cave.jpg" />
+    <None Remove="img_navimap\demo_chara.png" />
+    <None Remove="img_navimap\grass_material.png" />
+    <None Remove="img_navimap\grass_material2.jpg" />
+    <None Remove="img_navimap\guess_poke.jpg" />
+    <None Remove="img_navimap\gym.png" />
+    <None Remove="img_navimap\LetsCaving.jpg" />
+    <None Remove="img_navimap\mainchara\mainchara_down.png" />
+    <None Remove="img_navimap\mainchara\mainchara_left.png" />
+    <None Remove="img_navimap\mainchara\mainchara_right.png" />
+    <None Remove="img_navimap\mainchara\mainchara_up.png" />
+    <None Remove="img_navimap\pokeball.jpg" />
+    <None Remove="img_navimap\Pokemon_Icon\011Pichu.png" />
+    <None Remove="img_navimap\Pokemon_Icon\012Pikachu.png" />
+    <None Remove="img_navimap\Pokemon_Icon\013Raichu.png" />
+    <None Remove="img_navimap\Pokemon_Icon\021Zubat.png" />
+    <None Remove="img_navimap\Pokemon_Icon\022Golbat.png" />
+    <None Remove="img_navimap\Pokemon_Icon\031Magikarp.png" />
+    <None Remove="img_navimap\Pokemon_Icon\032Gyarados.png" />
+    <None Remove="img_navimap\Pokemon_Icon\033ChaojiBaolilong.png" />
+    <None Remove="img_navimap\Pokemon_Icon\041Bulbasaur.png" />
+    <None Remove="img_navimap\Pokemon_Icon\042Ivysaur.png" />
+    <None Remove="img_navimap\Pokemon_Icon\043Venusaur.png" />
+    <None Remove="img_navimap\road_material.png" />
+    <None Remove="img_navimap\stone_cave.jpg" />
+    <None Remove="img_navimap\treebg-1.jpg" />
+    <None Remove="img_navimap\wallpaper.jpg" />
+    <None Remove="img_navimap\winbackground.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="img\LogoPage_Background.png" />
+    <Resource Include="img\Logo_3080.png" />
+    <Resource Include="img\Pokemon_Starting_Logo.png" />
+    <Resource Include="img\Title_StartBtn.png" />
+    <Resource Include="img_gymbattle\battlebg.png" />
+    <Resource Include="img_gymbattle\battle_background.jpg" />
+    <Resource Include="img_navimap\cave.jpg" />
+    <Resource Include="img_navimap\demo_chara.png" />
+    <Resource Include="img_navimap\grass_material.png" />
+    <Resource Include="img_navimap\guess_poke.jpg" />
+    <Resource Include="img_navimap\gym.png" />
+    <Resource Include="img_navimap\LetsCaving.jpg" />
+    <Resource Include="img_navimap\mainchara\mainchara_down.png" />
+    <Resource Include="img_navimap\mainchara\mainchara_left.png" />
+    <Resource Include="img_navimap\mainchara\mainchara_right.png" />
+    <Resource Include="img_navimap\mainchara\mainchara_up.png" />
+    <Resource Include="img_navimap\pokeball.jpg" />
+    <Resource Include="img_navimap\Pokemon_Icon\011Pichu.png" />
+    <Resource Include="img_navimap\Pokemon_Icon\012Pikachu.png" />
+    <Resource Include="img_navimap\Pokemon_Icon\013Raichu.png" />
+    <Resource Include="img_navimap\Pokemon_Icon\021Zubat.png" />
+    <Resource Include="img_navimap\Pokemon_Icon\022Golbat.png" />
+    <Resource Include="img_navimap\Pokemon_Icon\031Magikarp.png" />
+    <Resource Include="img_navimap\Pokemon_Icon\032Gyarados.png" />
+    <Resource Include="img_navimap\Pokemon_Icon\033ChaojiBaolilong.png" />
+    <Resource Include="img_navimap\Pokemon_Icon\041Bulbasaur.png" />
+    <Resource Include="img_navimap\Pokemon_Icon\042Ivysaur.png" />
+    <Resource Include="img_navimap\Pokemon_Icon\043Venusaur.png" />
+    <Resource Include="img_navimap\road_material.png" />
+    <Resource Include="img_navimap\stone_cave.jpg" />
+    <Resource Include="img_navimap\treebg-1.jpg" />
+    <Resource Include="img_navimap\wallpaper.jpg" />
+  </ItemGroup>
+
+</Project>

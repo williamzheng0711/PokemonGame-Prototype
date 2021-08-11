@@ -1,0 +1,5 @@
+Pickachu; Raichu
+Zubat; Golbat
+Magikarp; Gyarados
+Bulbasaur; Ivysaur
+Ivysaur; Venusaur

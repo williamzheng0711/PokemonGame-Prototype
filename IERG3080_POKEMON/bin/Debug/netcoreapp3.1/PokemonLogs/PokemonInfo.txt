@@ -1,0 +1,9 @@
+﻿Pikachu; Rare; electric
+Raichu; Rare; electric
+Bulbasaur; Common; grass
+Ivysaur; Common; grass
+Venusaur; Common; grass
+Magikarp; Legendary; dragon, flying
+Gyarados; Legendary; dragon, flying
+Zubat; Common; poison, flying
+Golbat; Common; poison, flying
